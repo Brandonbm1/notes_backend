@@ -1,0 +1,5 @@
+docker exec -it mymysql bash ------> Ejecutar de manera iterativa el contenedor
+
+mysql -u root --password -------> Ingresar a la base de datos con mysql
+
+ 
